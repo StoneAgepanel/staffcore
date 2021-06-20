@@ -1,0 +1,33 @@
+SIDEBAR_STAFF -> Access Staff-Section
+SIDEBAR_SENIORSTAFF -> Access SrStaff-Section
+COMMENT_WRITE -> Allowed to write a comment below an appeal
+COMMENT_DELETE -> Allowed to delete posted comments
+UPDATE_APPEAL_STATUS -> Allowed to update the status of an appeal
+SEE_PUNISHER -> Allowed to see who the player got punished by
+ACCESS_ACTIVITIES -> Access Activities
+ACCESS_ACTIVE_BANS -> Access Active bans
+EDIT_BAN -> Allowed to edit the Ban
+CREATE_BAN -> Allowed to create a Ban
+PERFORM_UNBAN -> Allowed to unban Player
+ACCESS_ACTIVE_MUTES -> Access Active Mutes
+MUTE_EDIT -> allowed to edit mutes
+PERFORM_UNMUTE -> Allowed to unmute a player
+CREATE_MUTE -> Allowed to create a mute
+EDIT_MUTE -> Allowed to edit the mute
+ACCESS_ACTIVE_REPORTS -> Access active Reports
+REPORT_CLAIM -> Claim Reports from UI
+ACCESS_REPORTS_ARCHIVE -> Access archived reports
+DELETE_REPORT -> Allowed to delete a report
+ACCESS_ALL_APPEALS -> Access all appeals
+ACCESS_ASSIGNED_APPEALS -> Access assigned appeals
+ACCESS_CHATLOGS -> Access all Chatlogs
+DELETE_CHATLOGS -> Allowed to delete Chatlogs
+ACCESS_TASKS -> Access Tasks for SeniorStaff
+UPDATE_TASK_STATUS -> Allowed to update the status of a task
+ACCESS_STAFF_TEAM -> Access an overview of Staffmembers
+ACCESS_ADMIN_TASKS -> Access Tasks for Admins
+ACCESS_STAFF_STATS -> Access Staff Statistics
+ACCESS_RANKS -> Access Ranks Management
+ACCESS_ACCOUNTS -> Access Account Management
+ACCESS_SETTINGS_EMAIL -> Access Email Settings
+ACCESS_SETTINGS_GENERAL -> Access General Settings
